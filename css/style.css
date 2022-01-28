@@ -1,0 +1,19 @@
+/* selector{
+    property:vale;
+} */
+
+body {
+    background-color: #EAF6F6;
+}
+
+hr {
+    border-style: none;
+    height: 2px;
+    width: 5%;
+    border-top: dotted grey 5px;
+}
+
+h1,
+h3 {
+    color: #66BFBF;
+}
